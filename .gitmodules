@@ -7,3 +7,6 @@
 [submodule "data/ref_data/MentalChat16K_Main"]
 	path = data/ref_data/MentalChat16K_Main
 	url = git@github.com:ChiaPatricia/MentalChat16K_Main.git
+[submodule "data/ref_data/MultiWD"]
+	path = data/ref_data/MultiWD
+	url = git@github.com:drmuskangarg/MultiWD.git
